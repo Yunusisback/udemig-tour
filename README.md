@@ -1,4 +1,4 @@
-Project Name: udemigtour
+Project Name: udemigtour (a tour guide website)
 
 Features ✨
 
